@@ -1,0 +1,1 @@
+Hello this is first text command checking the git from ubuntu 
